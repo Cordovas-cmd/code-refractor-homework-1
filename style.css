@@ -54,17 +54,19 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("./digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
+/* Added max-height */
 .float-left {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 
+/* Added max height */
 .float-right {
     float: right;
     margin-left: 25px;
