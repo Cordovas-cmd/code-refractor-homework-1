@@ -9,4 +9,4 @@ The main priority when rewriting the code for this website was changing all of t
 
 A link to the deployed website is https://cordovas-cmd.github.io/code-refractor-homework-1/#social-media-marketing .
 
-![Alt text](https://github.com/Cordovas-cmd/code-refractor-homework-1/blob/main/ReadME.md)
+![Alt text](https://github.com/Cordovas-cmd/code-refractor-homework-1/blob/main/FireShot%20Capture%20004%20-%20website%20-%20cordovas-cmd.github.io.png)
